@@ -1,1 +1,1 @@
-eUSER_AGENT = "meterpeter"
+eUSER_AGENT = "hello"
